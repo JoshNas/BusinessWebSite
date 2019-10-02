@@ -101,8 +101,8 @@ textarea {
 
 /*Background images (Non-Parallax)*/
 .contact-bg {
-	background-image: url('./img/background3.jpg');
-	min-height: 1000px;
+	background-image: url('../img/background3.jpg');
+	min-height: 600px;
 	height: 100%;
 	/* Center and scale the image nicely */
 	background-position: center;

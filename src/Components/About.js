@@ -1,7 +1,5 @@
 import React  from 'react'
-import ModalImage from "react-modal-image";
-import info from './info/info'
-import "./style.css";
+import "./about.css";
 import { About1 } from './About1'
 import { About2 } from './About2'
 import { About3 } from './About3'
@@ -48,9 +46,6 @@ export const About = () => (
       </a>
 
     </div>
-
-
-
   </div>
 
 
