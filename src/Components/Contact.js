@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { CreditPopup } from './Popups'
 import './contact.css'
 import $ from 'jquery'
 
@@ -97,7 +96,8 @@ export class Contact extends Component {
         </form>
         </div>
         <div className="ml-auto p-2 bd-highlight">
-          <CreditPopup credit={<a id="photoCredit" href='https://unsplash.com/@marvelous'>Photo by Marvin Meyer on Unsplash</a>}/>
+          <small className="creditText">Photo by Marvin Meyer</small>
+
         </div>
       </div>
     </div>

@@ -112,3 +112,9 @@ textarea {
 .form-btn:focus {
  outline: 0;
 }
+
+.creditText {
+	font-size: 50%;
+	color: grey;
+	text-shadow: 2px 2px 4px #000000;
+}
