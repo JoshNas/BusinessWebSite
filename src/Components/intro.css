@@ -1,6 +1,6 @@
 /*Background images (Non-Parallax)*/
 .intro-bg {
-	background-image: url('../img/background.png');
+	background-image: url('../img/breesyBackground.png');
 	min-height: 600px;
 	height: 100%;
 	/* Center and scale the image nicely */
